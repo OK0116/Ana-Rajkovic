@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "UI/UX Design",
+        "text": "Transforming digital experiences through innovative design and user-centric solutions, I specialize in providing comprehensive UI/UX services that cater to a diverse range of industries.",
+        "icon": "/icons/code-s-slash-line.svg"
+    },
+    {
+        "id": 2,
+        "title": "Web Development",
+        "text": "As a experienced CMS developer, I specialize in creating robust, scalable, and user-friendly content management systems tailored to meet the unique needs of businesses across various industries with CMS frameworks like WordPress, Shopify and React, Webflow, Wix, Hubspot.",
+        "icon": "/icons/smartphone-line.svg"
+    },
+    {
+        "id": 3,
+        "title": "Third Pary",
+        "text": "Specializing in seamless integration and enhancement of digital experiences, I offer comprehensive third-party web solutions designed to optimize and elevate your online presence.",
+        "icon": "/icons/quill-pen-line.svg"
+    }
+]

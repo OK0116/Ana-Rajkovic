@@ -1,0 +1,24 @@
+{
+  "firstName": "Ana",
+  "lastName": "Rajkovic",
+  "fullName": "Ana Rajkovic",
+  "thumbImage": "/images/me.jpg",
+  "largeImage": "/images/about-image.webp",
+  "bio": "A creative UI/UX designer and CMS Develoepr with WordPress, Webflow, Wix, Shopify with React, Studio, Hubspot and Web Developer with HTML5, JavaScript, TypeScript, CSS & UI Frameworks like Tailwind CSS, SCSS, Bootstrap, MUI, Bulma CSS, Chakra UI and PHP",
+  "nationality": "American",
+  "languages": ["English"],
+  "address": "Mihaila Živkovića 8b, 11500 Obrenovac",
+  "freelance": "Available",
+  "socialAddress": {
+    "github": "https://github.com/anarajkovic02",
+    "linkedin": "https://www.linkedin.com/in/mykhailo-ananiev-1b33272b5/",
+    "email": "mailto: anarajkovic265@gmail.com",
+    "telegram": "https://t.me/Seahorse_919",
+    "whatsapp":"https://wa.me/+381612652757",
+    "discord":"mykhailo1222"
+  },
+  "emailAddress": ["anarajkovic265@gmail.com"],
+  "telegram": ["https://t.me/Seahorse_919"],
+  "whatsapp":["https://wa.me/+381612652757"],
+  "discord":["mykhailo1222"]
+}

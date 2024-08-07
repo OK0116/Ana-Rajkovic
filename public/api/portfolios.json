@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "title": "Keekabu",
+    "subtitle": "Developed with Shopify",
+    "coverimage": "/images/portfolios/Keekabu/gallery.png",
+    "imagegallery": [
+      "/images/portfolios/Keekabu/1.png",
+      "/images/portfolios/Keekabu/2.png",
+      "/images/portfolios/Keekabu/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://keekabuu.com/",
+    "filters": ["shopify"]
+  },
+  {
+    "id": 2,
+    "title": "Lil' Dog",
+    "subtitle": "Developed with Wix",
+    "coverimage": "/images/portfolios/dog/gallery.png",
+    "imagegallery": [
+      "/images/portfolios/dog/1.png",
+      "/images/portfolios/dog/2.png",
+      "/images/portfolios/dog/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://www.lildogsresort.com/",
+    "filters": ["wix"]
+  },
+  {
+    "id": 3,
+    "title": "Bridgeline",
+    "subtitle": "Developed with Webflow",
+    "coverimage": "/images/portfolios/bridgeline/gallery.png",
+    "imagegallery": [
+      "/images/portfolios/bridgeline/1.png",
+      "/images/portfolios/bridgeline/2.png",
+      "/images/portfolios/bridgeline/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://www.bridgeline.com/",
+    "filters": ["webflow"]
+  },
+  {
+    "id": 4,
+    "title": "BBSA",
+    "subtitle": "Developed with WordPress",
+    "coverimage": "/images/portfolios/bbsa/gallery.png",
+    "imagegallery": [
+      "/images/portfolios/bbsa/1.png",
+      "/images/portfolios/bbsa/2.png",
+      "/images/portfolios/bbsa/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://www.bbsa-ins.com/",
+    "filters": ["wordpress"]
+  },
+  {
+    "id": 5,
+    "title": "Arko Pharma",
+    "subtitle": "Developed with Shopify",
+    "coverimage": "/images/portfolios/arko/gallery.png",
+    "imagegallery": [
+      "/images/portfolios/arko/1.png",
+      "/images/portfolios/arko/2.png",
+      "/images/portfolios/arko/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://fr.arkopharma.com/",
+    "filters": ["shopify"]
+  },
+  {
+    "id": 6,
+    "title": "Zeelo",
+    "subtitle": "Developed with Webflow",
+    "coverimage": "/images/portfolios/zeelo/gallery.png",
+    "imagegallery": [
+      "/images/portfolios/zeelo/1.png",
+      "/images/portfolios/zeelo/2.png",
+      "/images/portfolios/zeelo/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://zeelo.co/",
+    "filters": ["webflow"]
+  },
+  {
+    "id": 7,
+    "title": "JB HI-FI",
+    "subtitle": "Developed with Shopify",
+    "coverimage": "/images/portfolios/jb/gallery.png",
+    "imagegallery": [
+      "/images/portfolios/jb/1.png",
+      "/images/portfolios/jb/2.png",
+      "/images/portfolios/jb/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://www.jbhifi.co.nz/",
+    "filters": ["shopify"]
+  },
+  {
+    "id": 8,
+    "title": "Schultz Group",
+    "subtitle": "Developed with WordPress",
+    "coverimage": "/images/portfolios/schultz/gallery.png",
+    "imagegallery": [
+      "/images/portfolios/schultz/1.png",
+      "/images/portfolios/schultz/2.png",
+      "/images/portfolios/schultz/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://www.schultzgroupofny.com/",
+    "filters": ["wordpress"]
+  },
+  {
+    "id": 9,
+    "title": "Dogue",
+    "subtitle": "Developed with Shopify and React",
+    "coverimage": "/images/portfolios/dogue/gallery.png",
+    "imagegallery": [
+      "/images/portfolios/dogue/1.png",
+      "/images/portfolios/dogue/2.png",
+      "/images/portfolios/dogue/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://www.dogue.com.au/",
+    "filters": ["shopify", "React"]
+  },
+  {
+    "id": 10,
+    "title": "MXI",
+    "subtitle": "Developed with WordPress",
+    "coverimage": "/images/portfolios/mxi/gallery.png",
+    "imagegallery": [
+      "/images/portfolios/mxi/1.png",
+      "/images/portfolios/mxi/2.png",
+      "/images/portfolios/mxi/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://www.mxi.design/",
+    "filters": ["wordpress"]
+  },
+  {
+    "id": 11,
+    "title": "Gleam Genius",
+    "subtitle": "Developed with Shopify and React",
+    "coverimage": "/images/portfolios/gleam/gallery.png",
+    "imagegallery": [
+      "/images/portfolios/gleam/1.png",
+      "/images/portfolios/gleam/2.png",
+      "/images/portfolios/gleam/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://gleamgenius.co/",
+    "filters": ["shopify", "React"]
+  },
+  {
+    "id": 12,
+    "title": "MC Pherson",
+    "subtitle": "Developed with Wix",
+    "coverimage": "/images/portfolios/mc/gallery.png",
+    "imagegallery": [
+      "/images/portfolios/mc/1.png",
+      "/images/portfolios/mc/2.png",
+      "/images/portfolios/mc/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://www.m-nins.com/",
+    "filters": ["wix"]
+  }
+]

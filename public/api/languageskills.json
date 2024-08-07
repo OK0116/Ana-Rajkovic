@@ -1,0 +1,25 @@
+{
+    "largeImage": "/images/about-image.webp",
+    "technicalProficiencies": [
+        {
+            "id": 1,
+            "title": "Languages",
+            "text": "HTML, CSS, JavaScript, TypeScript, PHP"
+        },
+        {
+            "id": 2,
+            "title": "Design",
+            "text": "Figma, Adobe XD, Sketch, Mockup, Photoshop"
+        },
+        {
+            "id": 3,
+            "title": "CMS Frameworks",
+            "text": "WordPress, Shopify, Webflow, Wix, Hubspot, React"
+        },
+        {
+            "id": 4,
+            "title": "Databases",
+            "text": "MySQL, PostgreSQL, MongoDB"
+        }
+    ]
+}
