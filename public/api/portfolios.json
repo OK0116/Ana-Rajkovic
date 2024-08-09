@@ -99,20 +99,6 @@
   },
   {
     "id": 8,
-    "title": "Schultz Group",
-    "subtitle": "Developed with WordPress",
-    "coverimage": "/images/portfolios/schultz/gallery.png",
-    "imagegallery": [
-      "/images/portfolios/schultz/1.png",
-      "/images/portfolios/schultz/2.png",
-      "/images/portfolios/schultz/3.png"
-    ],
-    "videogallery": false,
-    "url": "https://www.schultzgroupofny.com/",
-    "filters": ["wordpress"]
-  },
-  {
-    "id": 9,
     "title": "Dogue",
     "subtitle": "Developed with Shopify and React",
     "coverimage": "/images/portfolios/dogue/gallery.png",
@@ -126,21 +112,7 @@
     "filters": ["shopify", "React"]
   },
   {
-    "id": 10,
-    "title": "MXI",
-    "subtitle": "Developed with WordPress",
-    "coverimage": "/images/portfolios/mxi/gallery.png",
-    "imagegallery": [
-      "/images/portfolios/mxi/1.png",
-      "/images/portfolios/mxi/2.png",
-      "/images/portfolios/mxi/3.png"
-    ],
-    "videogallery": false,
-    "url": "https://www.mxi.design/",
-    "filters": ["wordpress"]
-  },
-  {
-    "id": 11,
+    "id": 9,
     "title": "Gleam Genius",
     "subtitle": "Developed with Shopify and React",
     "coverimage": "/images/portfolios/gleam/gallery.png",
@@ -154,7 +126,7 @@
     "filters": ["shopify", "React"]
   },
   {
-    "id": 12,
+    "id": 10,
     "title": "MC Pherson",
     "subtitle": "Developed with Wix",
     "coverimage": "/images/portfolios/mc/gallery.png",
